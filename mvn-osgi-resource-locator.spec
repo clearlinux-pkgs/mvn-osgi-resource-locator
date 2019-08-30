@@ -4,7 +4,7 @@
 #
 Name     : mvn-osgi-resource-locator
 Version  : 1.0.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
 Source0  : https://repo1.maven.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
 Source1  : https://repo1.maven.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
